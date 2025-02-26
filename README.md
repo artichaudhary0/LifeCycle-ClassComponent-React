@@ -1,4 +1,4 @@
-# React Lifecycle Methods Demo
+# React Lifecycle Methods 
 
 ## 📌 Overview
 This project provides an interactive demonstration of React class component lifecycle methods. It allows users to visualize when and how lifecycle methods are called during mounting, updating, and unmounting phases.
