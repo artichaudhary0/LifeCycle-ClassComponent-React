@@ -100,4 +100,4 @@ This project covers all three phases of React component lifecycle:
 ---
 
 ## 👤 Author
-Arti Chaudhary
+Arti Singh Chaudhary
